@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Baby rabbits are called kits. Cute!
 - 🌱 I’m currently learning C# and .NET platform
-- 🐘 PHP is not going to die in 2023
+- 🐘 PHP is not a dead programming language.
 
 ### Connect with me:
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otmane-aatik/)
